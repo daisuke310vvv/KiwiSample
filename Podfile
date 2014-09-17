@@ -2,7 +2,7 @@
 platform :ios, "7.1"
 
 target "KiwiSample" do
-
+  pod "TestFlightSDK"
 end
 
 target "KiwiSampleTests" do
